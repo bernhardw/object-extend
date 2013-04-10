@@ -1,0 +1,22 @@
+{
+    "name": "object-extend",
+    "version": "0.5",
+    "description": "A well-tested function to deep extend (or merge) JavaScript objects",
+    "url": "https://github.com/bernhardw/object-extend",
+    "keywords": [
+        "extend",
+        "merge",
+        "extend objects",
+        "merge objects"
+    ],
+    "author": "Bernhard Wanger <mail@bernhardwanger.com>",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/bernhardw/object-extend.git"
+    },
+    "license": "MIT",
+    "main": "./lib/extend.js",
+    "engines": {
+        "node": ">= 0.4.x"
+    }
+}
