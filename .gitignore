@@ -3,3 +3,6 @@
 
 # PHPStorm
 .idea/
+
+# Node.js
+npm-debug.log

@@ -1,6 +1,6 @@
 {
     "name": "object-extend",
-    "version": "0.5",
+    "version": "0.5.0",
     "description": "A well-tested function to deep extend (or merge) JavaScript objects",
     "url": "https://github.com/bernhardw/object-extend",
     "keywords": [
