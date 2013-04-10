@@ -1,8 +1,9 @@
 extend
 ======
 
-extend is a well-tested function to deep extend (or merge) JavaScript objects without further dependencies.
-It is unit tested with over 94 single assertion tests.
+A well-tested function to deep extend (or merge) JavaScript objects without further dependencies.
+
+Unit-tested with over 94 single assertion tests.
 
 
 Usage
